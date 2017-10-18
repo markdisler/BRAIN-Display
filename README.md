@@ -25,9 +25,15 @@ When launched, the BRAIN Display will do the following:
 4. Display the lessons that are scheduled during the days picked by the date system.
 5. Begin a timer to keep the display updated when the date changes.
 
+### Parsing Lesson Data ###
+A given schedule data file is expected to contain a list of lessons, one per line, with the format: "date,group,period".  An example could be "10/18,WE Trumpet A,2" which would represent a lesson scheduled on October 10th for the WE Trumpet A group during period 2.
+
+The **LessonFileParser** class is responsible for reading the current lesson file (specified in the settings file) and parsing it into an ArrayList of **Lesson** objects – one Lesson per line in the text file.  Another thing to note is the group names are passed through an instrument shortening method that way the display doesn't look too cramped.  For example, if a lesson group is "WE Euphonium", it will be shortened to "WE Euph".
+
+At any time, other parts of the application can request the ArrayList of Lesson objects or have the file reparsed if necessary.
 
 ### Getting the Dates ###
-
+The **DateManager** class is responsible for determining the four dates to display.  Starting with the current day, the date manager will try to determine the next four days that have lessons scheduled.  If *today* has a lesson scheduled, it will be saved as a schedule date to display.  From here, the date manager keeps looking one day forward to see if a lesson is scheduled on that date.  When four dates are found with corresponding scheduled lessons, the date manager stops looking for days.  The
 
 ### Getting the Lessons ###
 
