@@ -33,8 +33,10 @@ The **LessonFileParser** class is responsible for reading the current lesson fil
 At any time, other parts of the application can request the ArrayList of Lesson objects or have the file reparsed if necessary.
 
 ### Getting the Dates ###
-The **DateManager** class is responsible for determining the four dates to display.  Starting with the current day, the date manager will try to determine the next four days that have lessons scheduled.  If *today* has a lesson scheduled, it will be saved as a schedule date to display.  From here, the date manager keeps looking one day forward to see if a lesson is scheduled on that date.  When four dates are found with corresponding scheduled lessons, the date manager stops looking for days.  The
+The **DateManager** class is responsible for determining the four dates to display.  Starting with the current day, the date manager will try to determine the next four days that have lessons scheduled.  If *today* has a lesson scheduled, it will be saved as a schedule date to display.  From here, the date manager keeps looking one day forward to see if a lesson is scheduled on that date.  When four dates are found with corresponding scheduled lessons, the date manager stops looking for days. 
 
 ### Getting the Lessons ###
+[ in progress ]
 
 ### Settings ###
+[ in progress ]
