@@ -1,4 +1,4 @@
-# BRAIN-Display
+# BRAIN Display
 
 The Band Room Automated INformation Display is an application for the purpose of displaying music lesson schedules for my high school band. It was designed to replace the antiquated whiteboard schedule which needed to be tediously redrawn every week. 
 
