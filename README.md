@@ -1,6 +1,6 @@
 # BRAIN Display
 
-The Band Room Automated INformation Display is an application for the purpose of displaying music lesson schedules for my high school band. It was designed to replace the antiquated whiteboard schedule which needed to be tediously redrawn every week. 
+The Band Room Automated INformation Display is an application designed to display music lesson schedules for my high school band, replacing the antiquated whiteboard schedule which needed to be tediously redrawn every week. 
 
 ## What does it need?
 The "BRAIN" relies on several dependency files which it will create the first time it launches.  These files are created and must be found within the same directory as the executable JAR file that the application is launched from.  
@@ -33,10 +33,16 @@ The **LessonFileParser** class is responsible for reading the current lesson fil
 At any time, other parts of the application can request the ArrayList of Lesson objects or have the file reparsed if necessary.
 
 ### Getting the Dates ###
-The **DateManager** class is responsible for determining the four dates to display.  Starting with the current day, the date manager will try to determine the next four days that have lessons scheduled.  If *today* has a lesson scheduled, it will be saved as a schedule date to display.  From here, the date manager keeps looking one day forward to see if a lesson is scheduled on that date.  When four dates are found with corresponding scheduled lessons, the date manager stops looking for days. 
+The **DateManager** class is responsible for determining the four dates to display.  Starting with the current day, the date manager will try to determine the next four days that have lessons scheduled.  If *today* has a lesson scheduled, it will be saved as a schedule date to display.  From here, the date manager keeps looking one day forward to see if a lesson is scheduled on that date.  When four dates are found with scheduled lessons, the date manager stops looking for days. 
 
 ### Getting the Lessons ###
-[ in progress ]
+At this point, the **LessonFileParser** has an ArrayList of ALL of the lessons in a given lesson schedule; however, we don't need all of them to load onto the display.
+
+The **LessonFileParser** can filter the large list down to just the lessons scheduled on a given set of dates (represented as an array of strings with the format "mm/dd".  The filtering process is done by checking each lesson to see if it occurs on one of the given dates in the array.  If the lesson is scheduled on one of those dates, it will add the lesson to a filtered ArrayList which the method will return at the end of the filtering process.
+
+The **Viewer** uses this filtered lesson list to calculate what periods to show on the display.  If over the four days, there is no lesson scheduled for one of the periods, we don't want to display it because that's a waste of displace space.  We only want to display rows in the display for periods that are actually used at least once over the four days.  The list of periods to display is calculated by adding each lesson's period to a Set (which does not allow duplicates) and then converts the set back into an array.  The **Viewer** (display) uses that array to draw the correct number of rows and labels the rows appropriately.  
+
+With the dates (top row) and periods (left-most column) determined and laid out on the display, the **Viewer** can fill in all of the lesson data in the rest of the display's grid.
 
 ### Settings ###
 [ in progress ]
