@@ -1,0 +1,431 @@
+9/12,WE Flute,2
+9/18,WE Clarinet B,2
+10/14,WE Clarinet A,2
+10/24,WE Oboe,2
+11/1,WE Bassoon,2
+11/10,WE Flute,2
+11/21,WE Clarinet B,2
+12/1,WE Clarinet A,2
+12/9,WE Oboe,2
+12/19,WE Bassoon,2
+1/4,WE Flute,2
+1/12,WE Clarinet B,2
+9/12,WE Bassoon,3
+9/18,WE Flute,3
+10/14,WE Clarinet B,3
+10/24,WE Clarinet A,3
+11/1,WE Oboe,3
+11/10,WE Bassoon,3
+11/21,WE Flute,3
+12/1,WE Clarinet B,3
+12/9,WE Clarinet A,3
+12/19,WE Oboe,3
+1/4,WE Bassoon,3
+1/12,WE Flute,3
+9/12,WE Oboe,6
+9/18,WE Bassoon,5
+10/14,WE Flute,5
+10/24,WE Clarinet B,5
+11/1,WE Clarinet A,5
+11/10,WE Oboe,5
+11/21,WE Bassoon,5
+12/1,WE Flute,5
+12/9,WE Clarinet B,5
+12/19,WE Clarinet A,5
+1/4,WE Oboe,5
+1/12,WE Bassoon,5
+9/12,WE Clarinet A,7
+9/18,WE Oboe,6
+10/14,WE Bassoon,7
+10/24,WE Flute,7
+11/1,WE Clarinet B,7
+11/10,WE Clarinet A,7
+11/21,WE Oboe,7
+12/1,WE Bassoon,7
+12/9,WE Flute,7
+12/19,WE Clarinet B,7
+1/4,WE Clarinet A,7
+1/12,WE Oboe,7
+9/12,WE Clarinet B,8
+9/18,WE Clarinet A,8
+10/14,WE Oboe,8
+10/24,WE Bassoon,8
+11/1,WE Flute,8
+11/10,WE Clarinet B,8
+11/21,WE Clarinet A,8
+12/1,WE Oboe,8
+12/9,WE Bassoon,8
+12/19,WE Flute,8
+1/4,WE Clarinet B,8
+1/12,WE Clarinet A,8
+9/13,CB Flute,2
+10/5,CB Alto Sax,2
+10/17,CB Clarinet C,2
+10/25,CB Clarinet A,2
+11/2,CB Tenor Sax,2
+11/14,CB Bass Clarinet,2
+11/22,CB Clarinet B,2
+12/2,CB Flute,2
+12/12,CB Alto Sax,2
+12/20,CB Clarinet C,2
+1/5,CB Clarinet A,2
+1/13,CB Tenor Sax,2
+9/13,CB Clarinet A,3
+10/5,CB Tenor Sax,3
+10/17,CB Bass Clarinet,3
+10/25,CB Clarinet B,3
+11/2,CB Flute,3
+11/14,CB Alto Sax,3
+11/22,CB Clarinet C,3
+12/2,CB Clarinet A,3
+12/12,CB Tenor Sax,3
+12/20,CB Bass Clarinet,3
+1/5,CB Clarinet B,3
+1/13,CB Flute,3
+9/13,CB Clarinet B,5
+10/5,CB Flute,5
+10/17,CB Alto Sax,5
+10/25,CB Clarinet C,5
+11/2,CB Clarinet A,5
+11/14,CB Tenor Sax,5
+11/22,CB Bass Clarinet,5
+12/2,CB Clarinet B,5
+12/12,CB Flute,5
+12/20,CB Alto Sax,5
+1/5,CB Clarinet C,5
+1/13,CB Clarinet A,5
+9/13,CB Clarinet C,6
+10/5,CB Clarinet A,6
+10/17,CB Tenor Sax,6
+10/25,CB Bass Clarinet,6
+11/2,CB Clarinet B,6
+11/14,CB Flute,6
+11/22,CB Alto Sax,6
+12/2,CB Clarinet C,6
+12/12,CB Clarinet A,6
+12/20,CB Tenor Sax,6
+1/5,CB Bass Clarinet,6
+1/13,CB Clarinet B,6
+9/13,CB Bass Clarinet,7
+10/5,CB Clarinet B,7
+10/17,CB Flute,7
+10/25,CB Alto Sax,7
+11/2,CB Clarinet C,7
+11/14,CB Clarinet A,7
+11/22,CB Tenor Sax,7
+12/2,CB Bass Clarinet,7
+12/12,CB Clarinet B,7
+12/20,CB Flute,7
+1/5,CB Alto Sax,7
+1/13,CB Clarinet C,7
+9/13,CB Alto Sax,8
+10/5,CB Clarinet C,8
+10/17,CB Clarinet A,8
+10/25,CB Tenor Sax,8
+11/2,CB Bass Clarinet,8
+11/14,CB Clarinet B,8
+11/22,CB Flute,8
+12/2,CB Alto Sax,8
+12/12,CB Clarinet C,8
+12/20,CB Clarinet A,8
+1/5,CB Tenor Sax,8
+1/13,CB Bass Clarinet,8
+9/13,CB Tenor Sax,9
+10/5,CB Bass Clarinet,9
+10/17,CB Clarinet B,9
+10/25,CB Flute,9
+11/2,CB Alto Sax,9
+11/14,CB Clarinet C,9
+11/22,CB Clarinet A,9
+12/2,CB Tenor Sax,9
+12/12,CB Bass Clarinet,9
+12/20,CB Clarinet B,9
+1/5,CB Flute,9
+1/13,CB Alto Sax,9
+9/14,WE Bass Clarinet,2
+10/6,WE French Horn,2
+10/18,WE Baritone Saxophone,2
+10/26,WE Tenor Saxophone,2
+11/3,WE Alto Saxphone,2
+11/15,WE Bass Clarinet,2
+11/23,WE French Horn,2
+12/5,WE Baritone Saxophone,2
+12/13,WE Tenor Saxophone,2
+12/21,WE Alto Saxphone,2
+1/6,WE Bass Clarinet,2
+1/17,WE French Horn,2
+9/14,WE Alto Saxphone,3
+10/6,WE Bass Clarinet,3
+10/18,WE French Horn,3
+10/26,WE Baritone Saxophone,3
+11/3,WE Tenor Saxophone,3
+11/15,WE Alto Saxphone,3
+11/23,WE Bass Clarinet,3
+12/5,WE French Horn,3
+12/13,WE Baritone Saxophone,3
+12/21,WE Tenor Saxophone,3
+1/6,WE Alto Saxphone,3
+1/17,WE Bass Clarinet,3
+9/14,WE Tenor Saxophone,5
+10/6,WE Alto Saxphone,5
+10/18,WE Bass Clarinet,5
+10/26,WE French Horn,5
+11/3,WE Baritone Saxophone,5
+11/15,WE Tenor Saxophone,5
+11/23,WE Alto Saxphone,5
+12/5,WE Bass Clarinet,5
+12/13,WE French Horn,5
+12/21,WE Baritone Saxophone,5
+1/6,WE Tenor Saxophone,5
+1/17,WE Alto Saxphone,5
+9/14,WE Baritone Saxophone,7
+10/6,WE Tenor Saxophone,7
+10/18,WE Alto Saxphone,7
+10/26,WE Bass Clarinet,7
+11/3,WE French Horn,7
+11/15,WE Baritone Saxophone,7
+11/23,WE Tenor Saxophone,7
+12/5,WE Alto Saxphone,7
+12/13,WE Bass Clarinet,7
+12/21,WE French Horn,7
+1/6,WE Baritone Saxophone,7
+1/17,WE Tenor Saxophone,7
+9/14,WE French Horn,8
+10/6,WE Baritone Saxophone,8
+10/18,WE Tenor Saxophone,8
+10/26,WE Alto Saxphone,8
+11/3,WE Bass Clarinet,8
+11/15,WE French Horn,8
+11/23,WE Baritone Saxophone,8
+12/5,WE Tenor Saxophone,8
+12/13,WE Alto Saxphone,8
+12/21,WE Bass Clarinet,8
+1/6,WE French Horn,8
+1/17,WE Baritone Saxophone,8
+9/15,CB Baritone Sax,2
+10/7,CB Trombone,2
+10/19,CB Trumpet B,2
+10/27,CB French Horn,2
+11/4,CB Euphonium,2
+11/16,CB Trumpet C,2
+11/28,CB Trumpet A,2
+12/6,CB Baritone Sax,2
+12/14,CB Trombone,2
+12/22,CB Trumpet B,2
+1/9,CB French Horn,2
+1/18,CB Euphonium,2
+9/15,CB French Horn,3
+10/7,CB Euphonium,3
+10/19,CB Trumpet C,3
+10/27,CB Trumpet A,3
+11/4,CB Baritone Sax,3
+11/16,CB Trombone,3
+11/28,CB Trumpet B,3
+12/6,CB French Horn,3
+12/14,CB Euphonium,3
+12/22,CB Trumpet C,3
+1/9,CB Trumpet A,3
+1/18,CB Baritone Sax,3
+9/15,CB Trumpet A,5
+10/7,CB Baritone Sax,5
+10/19,CB Trombone,5
+10/27,CB Trumpet B,5
+11/4,CB French Horn,5
+11/16,CB Euphonium,5
+11/28,CB Trumpet C,5
+12/6,CB Trumpet A,5
+12/14,CB Baritone Sax,5
+12/22,CB Trombone,5
+1/9,CB Trumpet B,5
+1/18,CB French Horn,5
+9/15,CB Trumpet B,6
+10/7,CB French Horn,6
+10/19,CB Euphonium,6
+10/27,CB Trumpet C,6
+11/4,CB Trumpet A,6
+11/16,CB Baritone Sax,6
+11/28,CB Trombone,6
+12/6,CB Trumpet B,6
+12/14,CB French Horn,6
+12/22,CB Euphonium,6
+1/9,CB Trumpet C,6
+1/18,CB Trumpet A,6
+9/15,CB Trumpet C,7
+10/7,CB Trumpet A,7
+10/19,CB Baritone Sax,7
+10/27,CB Trombone,7
+11/4,CB Trumpet B,7
+11/16,CB French Horn,7
+11/28,CB Euphonium,7
+12/6,CB Trumpet C,7
+12/14,CB Trumpet A,7
+12/22,CB Baritone Sax,7
+1/9,CB Trombone,7
+1/18,CB Trumpet B,7
+9/15,CB Trombone,8
+10/7,CB Trumpet B,8
+10/19,CB French Horn,8
+10/27,CB Euphonium,8
+11/4,CB Trumpet C,8
+11/16,CB Trumpet A,8
+11/28,CB Baritone Sax,8
+12/6,CB Trombone,8
+12/14,CB Trumpet B,8
+12/22,CB French Horn,8
+1/9,CB Euphonium,8
+1/18,CB Trumpet C,8
+9/15,CB Euphonium,9
+10/7,CB Trumpet C,9
+10/19,CB Trumpet A,9
+10/27,CB Baritone Sax,9
+11/4,CB Trombone,9
+11/16,CB Trumpet B,9
+11/28,CB French Horn,9
+12/6,CB Euphonium,9
+12/14,CB Trumpet C,9
+12/22,CB Trumpet A,9
+1/9,CB Baritone Sax,9
+1/18,CB Trombone,9
+9/16,WE Trumpet A,2
+10/11,WE Euphonium,2
+10/20,WE Bass Trombone,2
+10/28,WE Trombone,2
+11/7,WE Trumpet B,2
+11/17,WE Trumpet A,2
+11/29,WE Euphonium,2
+12/7,WE Bass Trombone,2
+12/15,WE Trombone,2
+12/23,WE Trumpet B,2
+1/10,WE Trumpet A,2
+1/19,WE Euphonium,2
+9/16,WE Trumpet B,3
+10/11,WE Trumpet A,3
+10/20,WE Euphonium,3
+10/28,WE Bass Trombone,3
+11/7,WE Trombone,3
+11/17,WE Trumpet B,3
+11/29,WE Trumpet A,3
+12/7,WE Euphonium,3
+12/15,WE Bass Trombone,3
+12/23,WE Trombone,3
+1/10,WE Trumpet B,3
+1/19,WE Trumpet A,3
+9/16,WE Trombone,5
+10/11,WE Trumpet B,5
+10/20,WE Trumpet A,5
+10/28,WE Euphonium,5
+11/7,WE Bass Trombone,5
+11/17,WE Trombone,5
+11/29,WE Trumpet B,5
+12/7,WE Trumpet A,5
+12/15,WE Euphonium,5
+12/23,WE Bass Trombone,5
+1/10,WE Trombone,5
+1/19,WE Trumpet B,5
+9/16,WE Bass Trombone,7
+10/11,WE Trombone,7
+10/20,WE Trumpet B,7
+10/28,WE Trumpet A,7
+11/7,WE Euphonium,7
+11/17,WE Bass Trombone,7
+11/29,WE Trombone,7
+12/7,WE Trumpet B,7
+12/15,WE Trumpet A,7
+12/23,WE Euphonium,7
+1/10,WE Bass Trombone,7
+1/19,WE Trombone,7
+9/16,WE Euphonium,8
+10/11,WE Bass Trombone,8
+10/20,WE Trombone,8
+10/28,WE Trumpet B,8
+11/7,WE Trumpet A,8
+11/17,WE Euphonium,8
+11/29,WE Bass Trombone,8
+12/7,WE Trombone,8
+12/15,WE Trumpet B,8
+12/23,WE Trumpet A,8
+1/10,WE Euphonium,8
+1/19,WE Bass Trombone,8
+9/17,CB Tuba,2
+10/13,CB Percussion B,2
+10/21,WE Percussion B,2
+10/31,WE Tuba,2
+11/9,CB Percussion C,2
+11/18,CB Percussion A,2
+11/30,WE Percussion A,2
+12/8,CB Tuba,2
+12/16,CB Percussion B,2
+1/3,WE Percussion B,2
+1/11,WE Tuba,2
+1/20,CB Percussion C,2
+9/17,WE Tuba,3
+10/13,CB Percussion C,3
+10/21,CB Percussion A,3
+10/31,WE Percussion A,3
+11/9,CB Tuba,3
+11/18,CB Percussion B,3
+11/30,WE Percussion B,3
+12/8,WE Tuba,3
+12/16,CB Percussion C,3
+1/3,CB Percussion A,3
+1/11,WE Percussion A,3
+1/20,CB Tuba,3
+9/17,WE Percussion A,5
+10/13,CB Tuba,5
+10/21,CB Percussion B,5
+10/31,WE Percussion B,5
+11/9,WE Tuba,5
+11/18,CB Percussion C,5
+11/30,CB Percussion A,5
+12/8,WE Percussion A,5
+12/16,CB Tuba,5
+1/3,CB Percussion B,5
+1/11,WE Percussion B,5
+1/20,WE Tuba,5
+10/13,WE Tuba,6
+10/21,CB Percussion C,6
+10/31,CB Percussion A,6
+11/9,WE Percussion A,6
+11/18,CB Tuba,6
+11/30,CB Percussion B,6
+12/8,WE Percussion B,6
+12/16,WE Tuba,6
+1/3,CB Percussion C,6
+1/11,CB Percussion A,6
+1/20,WE Percussion A,6
+9/17,CB Percussion A,7
+10/13,WE Percussion A,7
+10/21,CB Tuba,7
+10/31,CB Percussion B,7
+11/9,WE Percussion B,7
+11/18,WE Tuba,7
+11/30,CB Percussion C,7
+12/8,CB Percussion A,7
+12/16,WE Percussion A,7
+1/3,CB Tuba,7
+1/11,CB Percussion B,7
+1/20,WE Percussion B,7
+9/17,CB Percussion B,8
+10/13,WE Percussion B,8
+10/21,WE Tuba,8
+10/31,CB Percussion C,8
+11/9,CB Percussion A,8
+11/18,WE Percussion A,8
+11/30,CB Tuba,8
+12/8,CB Percussion B,8
+12/16,WE Percussion B,8
+1/3,WE Tuba,8
+1/11,CB Percussion C,8
+1/20,CB Percussion A,8
+9/17,CB Percussion C,9
+10/13,CB Percussion A,9
+10/21,WE Percussion A,9
+10/31,CB Tuba,9
+11/9,CB Percussion B,9
+11/18,WE Percussion B,9
+11/30,WE Tuba,9
+12/8,CB Percussion C,9
+12/16,CB Percussion A,9
+1/3,WE Percussion A,9
+1/11,CB Tuba,9
+1/20,CB Percussion B,9

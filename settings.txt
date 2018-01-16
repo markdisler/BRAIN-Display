@@ -1,0 +1,6 @@
+secondary_file = [n/a]
+secondary_start = [n/a]
+secondary_end = [n/a]
+current_file = alternate.txt
+period_array = 2,3,5,6,7,8,9
+theme = Other
