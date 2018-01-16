@@ -43,6 +43,3 @@ The **LessonFileParser** can filter the large list down to just the lessons sche
 The **Viewer** uses this filtered lesson list to calculate what periods to show on the display.  If over the four days, there is no lesson scheduled for one of the periods, we don't want to display it because that's a waste of displace space.  We only want to display rows in the display for periods that are actually used at least once over the four days.  The list of periods to display is calculated by adding each lesson's period to a Set (which does not allow duplicates) and then converts the set back into an array.  The **Viewer** (display) uses that array to draw the correct number of rows and labels the rows appropriately.  
 
 With the dates (top row) and periods (left-most column) determined and laid out on the display, the **Viewer** can fill in all of the lesson data in the rest of the display's grid.
-
-### Settings ###
-[ in progress ]
